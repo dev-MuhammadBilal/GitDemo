@@ -1,4 +1,4 @@
 # GitDemo
 This is my first repository.
 <br>
-Auther: Muhammad Bilal
+Author: Muhammad Bilal
